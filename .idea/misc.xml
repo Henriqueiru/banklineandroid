@@ -3,8 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/AndroidStudioProjects/banklineandroid/app/src/main/res/drawable/ic_money_in.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/banklineandroid/app/src/main/res/drawable/ic_money_out.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/banklineandroid/app/src/main/res/layout/activity_bank_statement.xml" value="0.1" />
         <entry key="..\:/AndroidStudioProjects/banklineandroid/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/AndroidStudioProjects/banklineandroid/app/src/main/res/layout/activity_welcome.xml" value="0.33" />
+        <entry key="..\:/AndroidStudioProjects/banklineandroid/app/src/main/res/layout/bank_statement_item.xml" value="0.22" />
         <entry key="..\:/AndroidStudioProjects/banklineandroid/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1785" />
       </map>
     </option>
